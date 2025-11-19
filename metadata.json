@@ -1,0 +1,5 @@
+{
+  "name": "Gemini TTS Studio",
+  "description": "Convert text into lifelike speech using the Gemini 2.5 Flash TTS model. Select from multiple voices and generate high-quality audio instantly.",
+  "requestFramePermissions": []
+}
